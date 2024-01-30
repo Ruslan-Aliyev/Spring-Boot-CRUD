@@ -28,9 +28,15 @@ Here I used Postgresql https://www.enterprisedb.com/downloads/postgres-postgresq
 
 ![Screenshot 2024-01-30 181937](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/a4bd62dd-eee1-4c30-88c4-62896cb8f7a7)
 
-# View DB from IDE
+## View DB from IDE
 
 ![Screenshot 2024-01-30 183320](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/4b3050b3-ccaa-4528-aea0-30b904d7f1c4)
+
+## DB config
+
+https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/blob/master/src/main/resources/application.properties
+
+Don't forget to write in the username and password too.
 
 ## ORM
 
