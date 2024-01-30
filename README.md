@@ -30,7 +30,7 @@ Here I used Postgresql https://www.enterprisedb.com/downloads/postgres-postgresq
 
 # View DB from IDE
 
-![Screenshot 2024-01-30 195514](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/fd889c4a-b605-448f-bc65-e3ccc67d87cd)
+![Screenshot 2024-01-30 183320](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/4b3050b3-ccaa-4528-aea0-30b904d7f1c4)
 
 ## ORM
 
@@ -59,6 +59,10 @@ curl --location --request DELETE 'http://localhost:8080/api/v1/student/3' \
 # Let IDE generate API requests
 
 ![Screenshot 2024-01-30 193433](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/61ef9e10-6052-4c7d-9618-8bbfc1dfec21)
+
+# Package into JAR
+
+![Screenshot 2024-01-30 195514](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/fd889c4a-b605-448f-bc65-e3ccc67d87cd)
 
 # Other tutorials
 
