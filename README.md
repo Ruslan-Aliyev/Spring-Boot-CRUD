@@ -71,6 +71,8 @@ curl --location --request DELETE 'http://localhost:8080/api/v1/student/3' \
 
 ![Screenshot 2024-01-30 195514](https://github.com/Ruslan-Aliyev/Spring-Boot-CRUD/assets/6761422/fd889c4a-b605-448f-bc65-e3ccc67d87cd)
 
+https://stackoverflow.com/questions/62650732/build-jar-and-run-spring-boot-from-cmd/67299008#67299008
+
 # Other tutorials
 
 - https://youtu.be/vtPkZShrvXQ?si=ezdUZLhyKBT1dd8L
