@@ -18,7 +18,8 @@
 
 # Dependency Injection
 
-https://kungfutech.edu.vn/bai-viet/spring-boot/component-annotation-va-autowired-annotation
+- https://kungfutech.edu.vn/bai-viet/spring-boot/component-annotation-va-autowired-annotation
+- Autowire: https://www.youtube.com/watch?v=K43qyHJXmWI
 
 # Database
 
